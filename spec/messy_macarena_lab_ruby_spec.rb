@@ -13,7 +13,7 @@ RSpec.describe "The Macarena" do
 
       step_1 = "Right arm out in front of you, palm facing down"
 
-      expect(steps[1]).to include(step_1), "\nStep 1 should be '#{step_1}'"
+      expect(steps[1]).to include(step_1), "\nStep 1 should be '#{step_1}', not #{steps[1]}"
     end
   end  
 
@@ -23,7 +23,7 @@ RSpec.describe "The Macarena" do
 
       step_2 = "Left arm out in front of you, palm facing down"
 
-      expect(steps[2]).to include(step_2), "\nStep 2 should be '#{step_2}'"
+      expect(steps[2]).to include(step_2), "\nStep 2 should be '#{step_2}', not '#{steps[2]}'"
     end
   end  
 
@@ -33,7 +33,7 @@ RSpec.describe "The Macarena" do
 
       step_3 = "Turn your right palm up"
 
-      expect(steps[3]).to include(step_3), "\nStep 3 should be '#{step_3}'"
+      expect(steps[3]).to include(step_3), "\nStep 3 should be '#{step_3}', not '#{steps[3]}'"
     end
   end    
 
@@ -43,7 +43,7 @@ RSpec.describe "The Macarena" do
 
       step_4 = "Turn your left palm up"
 
-      expect(steps[4]).to include(step_4), "\nStep 4 should be '#{step_4}'"
+      expect(steps[4]).to include(step_4), "\nStep 4 should be '#{step_4}', not '#{steps[4]}'"
     end
   end    
 
@@ -53,7 +53,7 @@ RSpec.describe "The Macarena" do
       
       step_5 = "Place your right hand on your left shoulder"
       
-      expect(steps[5]).to include(step_5), "\nStep 5 should be '#{step_5}'"
+      expect(steps[5]).to include(step_5), "\nStep 5 should be '#{step_5}', not '#{steps[5]}'"
     end
   end  
 
@@ -63,7 +63,7 @@ RSpec.describe "The Macarena" do
 
       step_6 = "Place your left hand on your right shoulder"
 
-      expect(steps[6]).to include(step_6), "\nStep 6 should be '#{step_6}'"
+      expect(steps[6]).to include(step_6), "\nStep 6 should be '#{step_6}', not '#{steps[6]}'"
     end
   end    
 
@@ -73,7 +73,7 @@ RSpec.describe "The Macarena" do
 
       step_7 = "Bring your right hand up and around to the back of your head"
 
-      expect(steps[7]).to include(step_7), "\nStep 7 should be '#{step_7}'"
+      expect(steps[7]).to include(step_7), "\nStep 7 should be '#{step_7}', not '#{steps[7]}'"
     end
   end    
 
@@ -83,7 +83,7 @@ RSpec.describe "The Macarena" do
 
       step_8 = "Bring your left hand up and around to the back your head"
 
-      expect(steps[8]).to include(step_8), "\nStep 8 should be '#{step_8}'"
+      expect(steps[8]).to include(step_8), "\nStep 8 should be '#{step_8}', not '#{steps[8]}'"
     end
   end    
 end
