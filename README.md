@@ -37,7 +37,7 @@ Failures:
   1) The Macarena Step 2: prints 'Left arm out in front of you, palm facing down'
      Failure/Error: expect(steps[2]).to include(step_2), "\nStep 2 should be '#{step_2}'"
      
-       Step 2 should be 'Left arm out in front of you, palm facing down'
+       Step 2 should be 'Left arm out in front of you, palm facing down', not 'Step 2: Turn your right palm up.'
      # ./spec/messy_macarena_lab_ruby_spec.rb:26:in `block (3 levels) in <top (required)>'
 
 Finished in 0.02589 seconds (files took 0.31186 seconds to load)
