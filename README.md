@@ -33,17 +33,19 @@ Base Footwork
 
    
 
-**Skip-Step**
+#### **Skip-Step**
 
 Skip Step Left
 
 1. Lower left foot to the ground
 2. Bounce left foot back up slightly, kicking it a few inches back
+3. Left, Right, Left and Left
 
 Skip Step Right
 
 1. Lower right foot to the ground
 2. Bounce right foot back up slightly, kicking it a few inches back
+3. Right, Left, Right and Right
 
 
 
@@ -61,26 +63,24 @@ Skip Step Right
    - Lift right arm up and point right elbow diagonally to the right.
    - Raise right forearm so that it points straight up, and **whip it in small circles** to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated **eight** times as well.
 
-**Bust a move:**
+
+
+#### **Bust a move:**
 
 - Be cool
 - Be snazzy!
 
 
 
+<!--LOWER BODY ORDER: The dance is performed in sets of four steps that alternate back and forth:-->
+
+<!--The pattern is as follows: **right** foot, **left** foot, **right** foot, **right** foot, followed by the opposite.-->
+
+<!--Practice this RLRR, LRLL-->
 
 
 
-
-- LOWER BODY ORDER: The dance is performed in sets of four steps that alternate back and forth:
-
-  The pattern is as follows: **right** foot, **left** foot, **right** foot, **right** foot, followed by the opposite.
-
-  Practice this RLRR, LRLL
-
-
-
-UPPER BODY ORDER: Start by "holding the reins." To a steady beat, bob your arms eight times, then switch to the "lasso" movement and wave your right arm eight times.
+<!--UPPER BODY ORDER: Start by "holding the reins." To a steady beat, bob your arms eight times, then switch to the "lasso" movement and wave your right arm eight times.-->
 
 
 
