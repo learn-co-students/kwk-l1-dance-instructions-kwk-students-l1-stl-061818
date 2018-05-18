@@ -1,30 +1,45 @@
-puts "How To Do The Macarena:"
-puts ""
+# Code your methods below
 
-# Fix The Dance Instructions Below
-# Every line should have one instruction using puts.
-# The first instruction is correct. 
+## SOLUTION
 
-# Step 1: GOOD
-puts "Step 1: Right arm out in front of you, palm facing down."
+def starting_stance
+  puts "Place legs far apart, bend knees slightly and keep posture loose"
+end
 
-# Step 2: FIXME
-puts "Step 2: Turn your right palm up."
+def base_footwork
+  puts "Lift right foot"
+  puts "Return right foot to the ground"
+  skip_step(left_foot)
+end
 
-# Step 3: FIXME
-puts "Step 3: Place your right hand on your left shoulder."
+def skip_step(starting_foot)
+  puts "Lower #{starting_foot} to the ground"
+  puts "Bounce #{starting_foot} back up slightly, kicking it a few inches back"
+  puts "Briefly raise the opposite foot, then the #{starting_foot} twice more!"
+end
 
-# Step 4: FIXME
-puts "Step 4: Turn your left palm up."
+def bob_the_reins
+  puts "Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
+  puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
+  puts "Do this 7 more times!"
+end
 
-# Step 5: FIXME
-puts "Step 5: Bring your right hand up and around to the back of your head."
+def lasso
+  puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left."
+  puts "Lift right arm up and point right elbow diagonally to the right."
+  puts "Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso."
+  puts "Do this 7 more times!"
+end
 
-# Step 6: FIXME
-puts "Step 6: Left arm out in front of you, palm facing down."
+def bust_a_move
+  puts "Be cool and be snazzy ;)"
+end
 
-# Step 7: FIXME
-puts "Step 7: Place your left hand on your left shoulder."
-
-# Step 8: FIXME
-puts "Step 8: The Last Step"
+def gangnam_style
+  starting_stance
+  base_footwork
+  skip_step(right) + bob_the_reins
+  skip_step(left) + lasso
+  bust_a_move
+end
