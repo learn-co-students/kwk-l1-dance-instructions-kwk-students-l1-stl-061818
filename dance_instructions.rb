@@ -1,15 +1,16 @@
+require 'pry'
 # Code your methods below
 
 ## SOLUTION
 
 def starting_stance
-  puts "Place legs far apart, bend knees slightly and keep posture loose"
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
 end
 
 def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
-  skip_step("left_foot")
+  skip_step("left foot")
 end
 
 def skip_step(starting_foot)
@@ -39,11 +40,10 @@ end
 def gangnam_style
   starting_stance
   base_footwork
-  skip_step("right")
+  skip_step("right foot")
   bob_the_reins
-  skip_step("left")
+  skip_step("left foot")
   lasso
   bust_a_move
 end
 
-gangnam_style
