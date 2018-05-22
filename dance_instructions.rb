@@ -9,7 +9,7 @@ end
 def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
-  skip_step(left_foot)
+  skip_step("left_foot")
 end
 
 def skip_step(starting_foot)
@@ -39,7 +39,11 @@ end
 def gangnam_style
   starting_stance
   base_footwork
-  skip_step(right) + bob_the_reins
-  skip_step(left) + lasso
+  skip_step("right")
+  bob_the_reins
+  skip_step("left")
+  lasso
   bust_a_move
 end
+
+gangnam_style
