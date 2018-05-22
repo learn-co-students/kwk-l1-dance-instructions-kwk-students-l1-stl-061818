@@ -17,7 +17,7 @@ When we learned about printing directly to the console through the Macarena, the
 
 Roughly, the abstracted components involved are as follows:
 
-#### Lower Body
+### Lower Body
 
 Assume the proper stance
 
@@ -33,7 +33,7 @@ Base Footwork
 
    
 
-#### **Skip-Step**
+### **Skip-Step**
 
 Skip Step Left
 
@@ -49,7 +49,7 @@ Skip Step Right
 
 
 
-#### Upper Body
+### Upper Body
 
 ##### Bob the reins
 
@@ -86,9 +86,9 @@ Skip Step Right
 
 Now that we've dissected each piece of the dance, let's learn the proper sequence these should occur. When we're grooving on the dance floor we don't usually think about how our upper body is coordinating with our leg movement since it often happens so naturally. But just like any good programmer knows, the computer never assumes anything, so we'll have to be very literal and bring these movements together simultaneously.
 
-##### **OVERALL**: 
+### **OVERALL**: 
 
-###### Each set of eight arm movements corresponds to two sets of leg movements. 
+#### Each set of eight arm movements corresponds to two sets of leg movements. 
 
 Bob the reins **eight** times, WHILE ALSO stepping right, left, right, right, then left, right, left, left, all at the same time. Your arm movements and steps should match up.
 
