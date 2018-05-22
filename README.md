@@ -21,7 +21,7 @@ Roughly, the abstracted components involved are as follows:
 
 Assume the proper stance
 
-1. Place legs far apart, bend knees slightly and keep posture loose
+1. Plant legs far apart, bend knees slightly and keep posture loose
 
 Base Footwork
 
@@ -31,7 +31,7 @@ Base Footwork
 
 3. Finishing with a **small skip-step** backward
 
-   
+
 
 ### **Skip-Step**
 
@@ -86,9 +86,9 @@ Skip Step Right
 
 Now that we've dissected each piece of the dance, let's learn the proper sequence these should occur. When we're grooving on the dance floor we don't usually think about how our upper body is coordinating with our leg movement since it often happens so naturally. But just like any good programmer knows, the computer never assumes anything, so we'll have to be very literal and bring these movements together simultaneously.
 
-### **OVERALL**: 
+### **OVERALL**:
 
-#### Each set of eight arm movements corresponds to two sets of leg movements. 
+#### Each set of eight arm movements corresponds to two sets of leg movements.
 
 Bob the reins **eight** times, WHILE ALSO stepping right, left, right, right, then left, right, left, left, all at the same time. Your arm movements and steps should match up.
 
@@ -118,8 +118,8 @@ In other words, the DRY principle states that duplication in logic should be eli
 
 
 
-1. Write a method for each section of the dance in `dance_instructions.rb`. This method should `puts` out strings advising the user what to do for that particular element of the dance. 
-2. Then, call the methods at the end of `dance_instructions.rb`, ensuring they are called in the proper order. This will bring all the elements of the dance together, and we can do so in code very elegantly. 
+1. Write a method for each section of the dance in `dance_instructions.rb`. This method should `puts` out strings advising the user what to do for that particular element of the dance.
+2. Then, call the methods at the end of `dance_instructions.rb`, ensuring they are called in the proper order. This will bring all the elements of the dance together, and we can do so in code very elegantly.
 
 
 
